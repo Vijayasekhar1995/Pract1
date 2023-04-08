@@ -6,7 +6,11 @@ class Employee{
 
 		System.out.println("Employee-Class");
 
+
 		int c= 30;
+
+		int b = 20;
+
 
 	} 
 
