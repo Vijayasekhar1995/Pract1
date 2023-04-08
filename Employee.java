@@ -4,6 +4,8 @@ class Employee{
 
 		System.out.println("Employee-Class");
 
+		int b = 20;
+
 	} 
 
 }
