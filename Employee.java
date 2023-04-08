@@ -6,6 +6,8 @@ class Employee{
 
 		System.out.println("Employee-Class");
 
+		int c= 30;
+
 	} 
 
 }
